@@ -23,7 +23,7 @@ ln -s ../cryptonote cryptonote
 Alternative way is to create git submodule:
 
 ```
-git submodule add https://github.com/heroNi/Maneki-Neko-coin Maneki-Neko-coin
+git submodule add https://github.com/heroNi/Maneki-Neko-coin cryptonote
 ```
 
 Replace URL with git remote repository of your coin.
